@@ -1,0 +1,32 @@
+{
+  "name": "coinijs",
+  "version": "1.0.0",
+  "description": "A client module for interacting with the Coini cryptocurrency payment service API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraterMaik/coinijs.git"
+  },
+  "keywords": [
+    "coini",
+    "cryptocurrency",
+    "payments",
+    "api client"
+  ],
+  "author": "CraterMaik <https://github.com/CraterMaik>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8"
+  },
+  "bugs": {
+    "url": "https://github.com/CraterMaik/coinijs/issues"
+  },
+  "homepage": "https://github.com/CraterMaik/coinijs#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
